@@ -114,7 +114,7 @@ Improving direct bookings could increase realized revenue by 5–8%
 📈 Power BI Dashboard
 <p align="center"> <img src="HospatilityDashBoard.png" width="900"> </p>
 📊 Excel Analytics Dashboard
-<p align="center"> <img src="HOSPITALITY_ANALYTICS_EXCEL.png" width="900"> </p>
+<p align="center"> <img src="hospatilityAnalytics.png" width="900"> </p>
 📦 Deliverables
 
 Interactive Power BI Dashboard (.pbix)
