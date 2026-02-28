@@ -1,9 +1,14 @@
 <h1 align="center">🏨 Hospitality Analytics & Revenue Optimization Dashboard</h1> <h3 align="center">Chiranth K J | Business & Data Analyst</h3> <p align="center"> <a href="https://github.com/Chirugow"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"> </a> <a href="https://www.linkedin.com/in/chiranthkj/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"> </a> <a href="https://chirugow.github.io/"> <img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome"> </a> </p>
+
+---
+
 📌 Project Overview
 
 This project analyzes hotel booking and revenue data to evaluate occupancy performance, cancellation trends, revenue distribution, and customer booking behavior.
 
 The dashboard simulates a real-world hotel revenue management system, enabling decision-makers to monitor KPIs and optimize pricing, occupancy, and distribution channels.
+
+---
 
 🎯 Business Objectives
 
@@ -18,6 +23,8 @@ Compare City-wise Revenue Performance
 Identify High-Performing Room Categories
 
 Evaluate Weekday vs Weekend Revenue Contribution
+
+---
 
 📊 Key KPIs Tracked
 
@@ -36,6 +43,8 @@ From the dashboard:
 📊 Utilized Capacity: 70%
 
 ⭐ Average Rating: 3.62
+
+---
 
 🛠 Tools & Technologies Used
 
@@ -58,6 +67,8 @@ Revenue Breakdown Analysis
 Weekly Trend Analysis
 
 Room Class Performance Comparison
+
+---
 
 🔍 Detailed Analysis Performed
 1️⃣ City-Wise Revenue & Booking Analysis
@@ -98,6 +109,8 @@ Weekday revenue significantly higher than weekend revenue
 
 Revenue drop observed in later weeks indicating seasonal impact
 
+---
+
 💡 Key Business Insights
 
 High cancellation rate (~25%) is causing revenue leakage
@@ -110,11 +123,19 @@ Dynamic pricing strategy recommended for peak demand periods
 
 Improving direct bookings could increase realized revenue by 5–8%
 
+---
+
 📸 Dashboard Screenshots
 📈 Power BI Dashboard
 <p align="center"> <img src="HospatilityDashBoard.png" width="900"> </p>
+
+---
+
 📊 Excel Analytics Dashboard
 <p align="center"> <img src="hospatilityAnalytics.png" width="900"> </p>
+
+---
+
 📦 Deliverables
 
 Interactive Power BI Dashboard (.pbix)
@@ -127,6 +148,8 @@ Revenue Optimization Recommendations
 
 Business KPI Documentation
 
+---
+
 📈 Business Impact Simulation
 
 Based on analytical insights:
@@ -138,6 +161,8 @@ Reduced Cancellation Impact through policy optimization
 Improved Channel Strategy for Direct Bookings
 
 Enhanced Pricing Decisions using demand patterns
+
+---
 
 👤 Author
 
