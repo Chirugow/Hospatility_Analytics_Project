@@ -71,6 +71,7 @@ Room Class Performance Comparison
 ---
 
 🔍 Detailed Analysis Performed
+
 1️⃣ City-Wise Revenue & Booking Analysis
 
 Mumbai generated the highest revenue contribution (~₹78M+)
